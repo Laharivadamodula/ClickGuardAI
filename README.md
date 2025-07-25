@@ -27,5 +27,5 @@ ClickGuard AI is a lightweight web application designed to help users identify *
 
 ---
 
-## 📁 Project Structure
+
 
